@@ -8,6 +8,7 @@
     "toast",
     "ajax"
   ],
+  "main": "build/js/messenger.js",
   "styles": [
     "build/css/messenger.css",
     "build/css/messenger-theme-future.css",
